@@ -1,0 +1,13 @@
+## Why should you change the MAC address?
+
+1.Increase privacy and anonymity online
+2.You can impersonate other devices
+3.Bypass network filters
+
+## how to install & use 
+
+
+1.git clone 
+2.pip3 install subprocess
+3.cd mac_changer
+4.python3 mac_changer.py
